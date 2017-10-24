@@ -1,0 +1,151 @@
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\hasim\Desktop\kelimeoyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+C:\Users\hasim\Desktop\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+C:\Users\sumeyye\Desktop\Vİsual BAsic kelime oyunları denemeler\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\sumeyye\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\hasim\Desktop\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sumeyye\Desktop\123456789\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+C:\Users\sumeyye\Desktop\masaÜSTÜ\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\sumeyye\Desktop\masaÜSTÜ\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\masaÜSTÜ\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\masaÜSTÜ\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\sumeyye\Desktop\oyun\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+C:\Users\sumeyye\Desktop\masaÜSTÜ\Sümeyye Şentürk 2126756321 Görsel Programlama\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+C:\Users\sumeyye\Desktop\masaÜSTÜ\Sümeyye Şentürk 2126756321 Görsel Programlama\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+C:\Users\sumeyye\Desktop\masaÜSTÜ\Sümeyye Şentürk 2126756321 Görsel Programlama\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+C:\Users\sumeyye\Desktop\masaÜSTÜ\Sümeyye Şentürk 2126756321 Görsel Programlama\kelimeoyunu\kelimeokyunuvs1\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form6.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form7.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form8.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+D:\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe.config
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.exe
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.xml
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.pdb
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.exe
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.pdb
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\bin\Debug\kelimeoyunuvs1.xml
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form1.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form2.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form3.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form4.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form5.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form6.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form7.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Form8.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\WindowsApplication1.Resources.resources
+D:\SüMeyye Dosyalar\2.SINIF GÜZ DÖNEMİ  DERS NOTLARI\projeler\Sümeyye Şentürk 2126756321 Görsel Programlama\Sümeyye Şentürk 2126756321\kelime oyunu\kelimeoyunuvs1\obj\Debug\kelimeoyunuvs1.vbproj.GenerateResource.Cache
